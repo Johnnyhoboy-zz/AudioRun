@@ -1,0 +1,4 @@
+#Mon Mar 25 01:57:29 EDT 2019
+base.0=D\:\\School\\CS 4590\\stepCount to android\\Android consumer app (code)_\\Consumer\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

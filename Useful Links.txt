@@ -1,0 +1,8 @@
+https://developer.samsung.com/galaxy-watch/develop/creating-your-first-app/web-companion/setup-sdk
+
+https://developer.samsung.com/galaxy-watch/develop/testing-your-app-on-gear
+
+https://developer.tizen.org/ko/development/guides/web-application/sensors/human-activity-monitor?langredirect=1#retrieve
+
+https://stackoverflow.com/questions/49877474/retrieving-data-from-gear-s3-heart-rate-monitor-hrm-to-mobile-or-server
+
