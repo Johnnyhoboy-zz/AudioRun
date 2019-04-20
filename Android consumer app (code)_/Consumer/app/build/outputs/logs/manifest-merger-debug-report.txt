@@ -1,133 +1,133 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:1-51:12
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:1-51:12
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\John\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\1c4717f5648a5cd4f69cbc4b8cdb6575\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:support-v4:23.1.1] C:\Users\John\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\3e59ea8686b6db085cc4a6f36a223bdb\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:1-51:12
 	package
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:3:5-80
-		INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
-		INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:3:5-80
+		INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:5:5-32
-		INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
-		INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
-		INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:7:5-68
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:7:5-68
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:7:22-65
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:7:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:8:5-74
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:8:5-74
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:8:22-71
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:8:22-71
 uses-permission#com.samsung.accessory.permission.ACCESSORY_FRAMEWORK
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:9:5-92
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:9:5-92
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:9:22-89
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:9:22-89
 uses-permission#com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:10:5-117
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:10:5-117
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:10:22-114
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:10:22-114
 uses-permission#com.samsung.wmanager.ENABLE_NOTIFICATION
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:11:5-80
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:11:5-80
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:11:22-77
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:11:22-77
 uses-permission#com.samsung.WATCH_APP_TYPE.Companion
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:12:5-75
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:12:5-75
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:12:22-73
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:12:22-73
 uses-sdk
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:14:5-47
-INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:14:5-47
-INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:14:5-47
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:14:5-47
+INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:14:5-47
+INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:14:5-47
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\John\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\1c4717f5648a5cd4f69cbc4b8cdb6575\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\John\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\1c4717f5648a5cd4f69cbc4b8cdb6575\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.1.1] C:\Users\John\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\3e59ea8686b6db085cc4a6f36a223bdb\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.1.1] C:\Users\John\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\3e59ea8686b6db085cc4a6f36a223bdb\AndroidManifest.xml:20:5-43
-INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:14:5-47
-INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:14:5-47
+INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:14:5-47
+INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:14:5-47
 	android:targetSdkVersion
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:14:15-44
-		INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
-		INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:14:15-44
+		INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:14:5-47
-		INJECTED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:14:5-47
+		INJECTED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml
 application
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:16:5-49:19
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:16:5-49:19
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\John\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\1c4717f5648a5cd4f69cbc4b8cdb6575\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\John\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\1c4717f5648a5cd4f69cbc4b8cdb6575\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] C:\Users\John\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\3e59ea8686b6db085cc4a6f36a223bdb\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] C:\Users\John\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\3e59ea8686b6db085cc4a6f36a223bdb\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:19:9-41
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:19:9-41
 	android:icon
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:18:9-43
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:18:9-43
 	android:allowBackup
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:17:9-35
 activity#com.samsung.android.sdk.accessory.example.helloaccessory.consumer.ConsumerActivity
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:20:9-28:20
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:20:9-28:20
 	android:screenOrientation
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:23:13-49
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:23:13-49
 	android:label
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:22:13-45
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:22:13-45
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:21:13-110
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:21:13-110
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:24:13-27:29
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:24:13-27:29
 action#android.intent.action.MAIN
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:25:17-69
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:25:25-66
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:26:27-74
 service#com.samsung.android.sdk.accessory.example.helloaccessory.consumer.ConsumerService
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:30:9-117
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:30:9-117
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:30:18-114
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:30:18-114
 receiver#com.samsung.android.sdk.accessory.RegisterUponInstallReceiver
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:32:9-36:20
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:32:9-36:20
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:32:19-95
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:32:19-95
 intent-filter#action:name:com.samsung.accessory.action.REGISTER_AGENT
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:33:13-35:29
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:33:13-35:29
 action#com.samsung.accessory.action.REGISTER_AGENT
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:34:17-86
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:34:17-86
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:34:25-83
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:34:25-83
 receiver#com.samsung.android.sdk.accessory.ServiceConnectionIndicationBroadcastReceiver
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:37:9-41:20
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:37:9-41:20
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:37:19-112
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:37:19-112
 intent-filter#action:name:com.samsung.accessory.action.SERVICE_CONNECTION_REQUESTED
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:38:13-40:29
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:38:13-40:29
 action#com.samsung.accessory.action.SERVICE_CONNECTION_REQUESTED
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:39:17-100
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:39:17-100
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:39:25-97
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:39:25-97
 meta-data#AccessoryServicesLocation
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:43:9-45:62
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:43:9-45:62
 	android:value
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:45:13-59
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:45:13-59
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:44:13-53
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:44:13-53
 meta-data#GearAppType
-ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:46:9-48:35
+ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:46:9-48:35
 	android:value
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:48:13-32
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:48:13-32
 	android:name
-		ADDED from D:\School\CS 4590\stepCount to android\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:47:13-39
+		ADDED from D:\School\CS 4590\AudioRun\Android consumer app (code)_\Consumer\app\src\main\AndroidManifest.xml:47:13-39

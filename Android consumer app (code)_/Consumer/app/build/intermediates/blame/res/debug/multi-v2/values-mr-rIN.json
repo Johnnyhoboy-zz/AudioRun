@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\School\\CS 4590\\stepCount to android\\Android consumer app (code)_\\Consumer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr-rIN\\values-mr-rIN.xml",
+            "outputFile": "D:\\School\\CS 4590\\AudioRun\\Android consumer app (code)_\\Consumer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr-rIN\\values-mr-rIN.xml",
             "map": [
                 {
                     "source": "C:\\Users\\John\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\1c4717f5648a5cd4f69cbc4b8cdb6575\\res\\values-mr-rIN\\values-mr-rIN.xml",

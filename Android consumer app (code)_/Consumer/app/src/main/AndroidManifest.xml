@@ -11,7 +11,7 @@
     <uses-permission android:name="com.samsung.wmanager.ENABLE_NOTIFICATION" />
     <uses-permission android:name="com.samsung.WATCH_APP_TYPE.Companion"/>
 
-    <uses-sdk android:targetSdkVersion="21" />
+    <uses-sdk android:targetSdkVersion="28" />
 
     <application
         android:allowBackup="true"

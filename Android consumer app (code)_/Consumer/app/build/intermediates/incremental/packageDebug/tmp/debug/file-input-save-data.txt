@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Mon Mar 25 01:57:29 EDT 2019
+#Fri Apr 19 22:00:41 EDT 2019
 0.baseType=DIRECTORY
-0.base=D\:\\School\\CS 4590\\stepCount to android\\Android consumer app (code)_\\Consumer\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.base=D\:\\School\\CS 4590\\AudioRun\\Android consumer app (code)_\\Consumer\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 0.path=classes.dex
 0.set=DEX
 count=1

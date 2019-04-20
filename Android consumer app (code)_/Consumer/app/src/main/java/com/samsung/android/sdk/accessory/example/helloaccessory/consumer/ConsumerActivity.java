@@ -32,8 +32,10 @@ import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
 import android.content.ServiceConnection;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.IBinder;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -48,6 +50,9 @@ public class ConsumerActivity extends Activity {
     private boolean mIsBound = false;
     private ListView mMessageListView;
     private ConsumerService mConsumerService = null;
+
+    Workout workout = new Workout(ConsumerActivity.this);
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -98,11 +103,12 @@ public class ConsumerActivity extends Activity {
             }
             case R.id.buttonSend: {
                 if (mIsBound == true && mConsumerService != null) {
-                    if (mConsumerService.sendData("Hello Accessory!")) {
+                    if (mConsumerService.sendData("Hello World!")) {
                     } else {
                         Toast.makeText(getApplicationContext(), R.string.ConnectionAlreadyDisconnected, Toast.LENGTH_LONG).show();
                     }
                 }
+
                 break;
             }
             default:
@@ -125,7 +131,10 @@ public class ConsumerActivity extends Activity {
     };
 
     public static void addMessage(String data) {
+
         mMessageAdapter.addMessage(new Message(data));
+
+
     }
 
     public static void updateTextView(final String str) {
@@ -154,6 +163,8 @@ public class ConsumerActivity extends Activity {
                     mMessageListView.setSelection(getCount() - 1);
                 }
             });
+
+            workout.play(msg.data);
         }
 
         void clear() {

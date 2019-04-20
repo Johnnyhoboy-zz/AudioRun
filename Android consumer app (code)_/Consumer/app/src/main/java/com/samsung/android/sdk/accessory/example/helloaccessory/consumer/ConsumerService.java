@@ -35,6 +35,7 @@ import android.util.Log;
 import com.samsung.android.sdk.SsdkUnsupportedException;
 import com.samsung.android.sdk.accessory.*;
 
+
 public class ConsumerService extends SAAgent {
     private static final String TAG = "HelloAccessory(C)";
     private static final int HELLOACCESSORY_CHANNEL_ID = 104;
@@ -42,6 +43,7 @@ public class ConsumerService extends SAAgent {
     private final IBinder mBinder = new LocalBinder();
     private ServiceConnection mConnectionHandler = null;
     Handler mHandler = new Handler();
+
 
     public ConsumerService() {
         super(TAG, SASOCKET_CLASS);
@@ -136,6 +138,8 @@ public class ConsumerService extends SAAgent {
     }
 
     public class ServiceConnection extends SASocket {
+
+
         public ServiceConnection() {
             super(ServiceConnection.class.getName());
         }
@@ -147,7 +151,8 @@ public class ConsumerService extends SAAgent {
         @Override
         public void onReceive(int channelId, byte[] data) {
             final String message = new String(data);
-            addMessage("Received: ", message);
+            addMessage("", message);
+
         }
 
         @Override
@@ -176,7 +181,10 @@ public class ConsumerService extends SAAgent {
             } catch (IOException e) {
                 e.printStackTrace();
             }
-            addMessage("Sent: ", data);
+            //addMessage("Sent: ", data);
+            addMessage("Sent:", data);
+
+
         }
         return retvalue;
     }
@@ -230,5 +238,6 @@ public class ConsumerService extends SAAgent {
                 ConsumerActivity.addMessage(strToUI);
             }
         });
+
     }
 }
