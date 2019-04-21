@@ -1,6 +1,6 @@
 # AudioRun
 
-Final group project for CS 4590 Computer Audio at Georgia Tech. We implemented a way to interface a Samsung Gear S3 with a Android app to extract raw heart rate data. This helped provide environmental context for our app prototype that sonified workout cues. 
+Final group project for CS 4590 Computer Audio at Georgia Tech. We implemented a way to interface a Samsung Gear S3 with a Android app to extract raw heart rate data. This helped provide environmental context for our prototype app that sonified workout cues. 
 
 Android app was built with Android Studio v3.3.2+ coded in Java and tested on a Google Pixel 2 XL running Android 9+.
 
