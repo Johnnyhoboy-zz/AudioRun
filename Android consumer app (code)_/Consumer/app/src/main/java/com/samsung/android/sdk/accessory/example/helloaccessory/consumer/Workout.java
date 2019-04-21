@@ -158,7 +158,7 @@ public class Workout extends AppCompatActivity {
                     warned = true;
                     sprint.start();
 
-                    int initDelay = 1000;
+                    int initDelay = 4000;
                     int initPeriod = 100000;
                     timer.scheduleAtFixedRate(new TimerTask() {
 
@@ -191,7 +191,7 @@ public class Workout extends AppCompatActivity {
                     warned = true;
                     cooldown.start();
 
-                    int initDelay = 1000;
+                    int initDelay = 4000;
                     int initPeriod = 100000;
                     timer.scheduleAtFixedRate(new TimerTask() {
 
@@ -223,7 +223,7 @@ public class Workout extends AppCompatActivity {
                     warned = true;
                     sprint2.start();
 
-                    int initDelay = 1000;
+                    int initDelay = 4000;
                     int initPeriod = 100000;
                     timer.scheduleAtFixedRate(new TimerTask() {
 
@@ -255,7 +255,7 @@ public class Workout extends AppCompatActivity {
                     warned = true;
                     cooldown2.start();
 
-                    int initDelay = 1000;
+                    int initDelay = 4000;
                     int initPeriod = 100000;
                     timer.scheduleAtFixedRate(new TimerTask() {
 

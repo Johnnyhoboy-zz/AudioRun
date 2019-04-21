@@ -6,3 +6,4 @@ https://developer.tizen.org/ko/development/guides/web-application/sensors/human-
 
 https://stackoverflow.com/questions/49877474/retrieving-data-from-gear-s3-heart-rate-monitor-hrm-to-mobile-or-server
 
+https://developer.android.com/reference/android/media/MediaPlayer.html
